@@ -6,4 +6,3 @@ This project is based on [Minimalist-Homepage](https://github.com/itnproject/Min
 This translation extension itself is also released under the AGPL-3.0 license.
 
 To use this extension, you have to download [Minimalist-Homepage](https://github.com/itnproject/Minimalist-Homepage) or [Minimalist-Homepage-BE](https://github.com/itnproject/Minimalist-Homepage-BE) from the itnproject GitHub repo.
-You need to use it in version 11.3 Pro.
